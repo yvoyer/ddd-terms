@@ -1,2 +1,7 @@
 # ddd-terms
-common terms to represent ddd objects and domain concepts.
+
+## References
+
+Miscelaneous references to DDD terms dictionaries
+
+* [Accounting](http://www.accountingtools.com)
